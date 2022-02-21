@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	VAR2              5004
+//	MR_SM             5005
+//	MR_20             5006
+

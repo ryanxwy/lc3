@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ONE               3007
+//	ZERO              3008
+//	MR_MPU            3009
+//	STATE_1           300A
+//	STATE_2           300B
+//	STATE_3           300C
+//	STATE_4           300D
+//	STATE_5           300E
+

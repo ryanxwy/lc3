@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ONE               3007
+//	STATE_1           3008
+//	STATE_2           3009
+//	STATE_3           300A
+//	STATE_4           300B
+//	STATE_5           300C
+

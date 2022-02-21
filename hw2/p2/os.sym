@@ -1,0 +1,35 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	JUMP_1T           0105
+//	RSET_JUMP_2       010E
+//	JUMP_2T           0114
+//	RSET_JUMP_3       011D
+//	JUMP_3T           0121
+//	RSET_JUMP_4       012A
+//	JUMP_4T           0130
+//	RSET_JUMP_5       0139
+//	JUMP_5T           0140
+//	RSET5             0149
+//	INF_LOOP          014C
+//	SIX               014D
+//	FIVE              014E
+//	FOUR              014F
+//	THREE             0150
+//	TWO               0151
+//	ONE               0152
+//	ZERO              0153
+//	MR_SM             0154
+//	MR_MPU            0155
+//	STATE_1           0156
+//	STATE_2           0157
+//	STATE_3           0158
+//	STATE_4           0159
+//	STATE_5           015A
+//	PROC1_ADDR        015B
+//	PROC2_ADDR        015C
+//	PROC3_ADDR        015D
+//	PROC4_ADDR        015E
+//	PROC5_ADDR        015F
+
